@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1565713109 source:c:\c prog\tripplesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1563895123 source:c:\c prog\tripplesort\concat linked list.c
+	<stdio.h>
+	<stdlib.h>
+
