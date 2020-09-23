@@ -22,6 +22,13 @@ class linkedlist:
             print(temp.data,end=" ")
             temp=temp.next
         print()
+    def delbeg(self):
+        if(self.head==None):
+            print('Empty')
+        else:
+            temp=self.head
+            temp=temp.next
+            self.head=temp
 ll=linkedlist()
 ll.addend(5)
 ll.addend(6)
@@ -29,6 +36,11 @@ ll.disp()
 ll.addend(55)
 ll.addend(66)
 ll.disp()
+ll.delbeg()
+ll.disp()
+ll.delbeg()
+ll.disp()
+
 
 
 
