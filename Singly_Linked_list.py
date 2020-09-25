@@ -40,7 +40,3 @@ ll.delbeg()
 ll.disp()
 ll.delbeg()
 ll.disp()
-
-
-
-
